@@ -19,8 +19,8 @@ Version : 1.0
 </br>Release platform : Windows, Mac & Android
 </br>https://snufflesrea.itch.io/galaxy-shooter
   
-![Screenshot](https://github.com/snufflesrea/GalaxyShooter/blob/master/SS1.PNG)
-![Screenshot](https://github.com/snufflesrea/GalaxyShooter/blob/master/ss2.PNG)
+![Screenshot](https://github.com/snufflesrea/GalaxyShooter/blob/master/SS1.png)
+![Screenshot](https://github.com/snufflesrea/GalaxyShooter/blob/master/ss2.png)
 
 ### Features:
 Offline & ads free
